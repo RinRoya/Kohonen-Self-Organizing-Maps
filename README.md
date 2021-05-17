@@ -15,7 +15,7 @@ File code dapat di akses pada ![link berikut](https://github.com/RinRoya/Kohonen
 
 2. Implementasi Algoritma
 
-![image](https://user-images.githubusercontent.com/49511033/118423716-d0b69e00-b6ef-11eb-9fb1-31fe2c943e86.png)
+![image](https://user-images.githubusercontent.com/49511033/118432617-411aea80-b703-11eb-9c31-87c637895ee6.png)
 
 3. Contoh soal 1
 
@@ -27,4 +27,4 @@ File code dapat di akses pada ![link berikut](https://github.com/RinRoya/Kohonen
 
 5. Ilustrasi hasil klaster
 
-![image](https://user-images.githubusercontent.com/49511033/118423842-23905580-b6f0-11eb-92bf-1482574ef517.png)
+![image](https://user-images.githubusercontent.com/49511033/118432643-5859d800-b703-11eb-88d7-59085f393cf4.png)
