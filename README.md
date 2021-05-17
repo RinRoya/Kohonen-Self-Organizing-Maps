@@ -1,4 +1,4 @@
-# Kohonen-Self-Organizing-Maps
+# Kohonen Self-Organizing Maps
 ## Penulis: Ridho Nur Rohman Wijaya
 Pada kesempatan kali ini akan dijelaskan implementasi algoritma Kohonen Self-Organizing Maps dengan contoh soal. Implementasi menggunakan bahasa pemrograman Python yang ditulis dengan Jupyter Notebook.
 
